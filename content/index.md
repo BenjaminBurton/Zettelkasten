@@ -1,12 +1,12 @@
 ---
-title: Zettelkasten
+title: Welcome to CLI Native
 draft: false
 tags: 
   - example-tag
 ---
 
 
-## 👋 My digital home for **CLINative**
+## 👋 My Digital Home to Share My Work in Public
 
 I’m a self-taught **Linux & DevOps Engineer** who believes everything starts at the command line.  
 This space is where I document what I learn, build, and break — all in public.
