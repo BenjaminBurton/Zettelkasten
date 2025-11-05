@@ -8,6 +8,8 @@ tags:
 
 ## 👋 My Digital Home to Share My Work in Public
 
+See also: [[Linux]] | [[Kubernetes]] [[Python]]
+
 I’m a self-taught **Linux & DevOps Engineer** who believes everything starts at the command line.  
 This space is where I document what I learn, build, and break — all in public.
 
