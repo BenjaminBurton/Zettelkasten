@@ -2,7 +2,7 @@
 title: Python
 draft: false
 tags: 
-  - [automation, scripting, devops, api, tools, backend, cloud]
+  - automation, scripting, devops, api, tools, backend, cloud
 ---
 
 ## 🐍 Python – Automation, APIs, and The Glue of DevOps

@@ -2,7 +2,7 @@
 title: Linux
 draft: false
 tags: 
-  - [cli, systems, devops, automation, shell, tools, fundamentals]
+  - cli, systems, devops, automation, shell, tools, fundamentals
 ---
 
 ## 🐧 Linux – The Foundation of Everything I Build
