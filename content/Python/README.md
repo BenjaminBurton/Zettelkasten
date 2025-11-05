@@ -2,7 +2,7 @@
 title: Python
 draft: false
 tags: 
-  - python-tag
+  - python
 ---
 
 ## 🐍 Python – Automation, APIs, and The Glue of DevOps

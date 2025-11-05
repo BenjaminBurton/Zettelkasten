@@ -2,7 +2,7 @@
 title: Kubernetes
 draft: false
 tags: 
-  - kubernetes-tag
+  - kubernetes
 ---
 
 

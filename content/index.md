@@ -2,7 +2,7 @@
 title: Welcome to CLI Native
 draft: false
 tags: 
-  - example-tag
+  - welcome
 ---
 
 

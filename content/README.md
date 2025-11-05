@@ -2,7 +2,7 @@
 title: CLINative
 draft: false
 tags:
-  - example-tags
+  - clinative
 ---
 
 ## 👋 Hey, I’m Lavell — aka **CLINative**
