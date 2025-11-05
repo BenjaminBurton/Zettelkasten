@@ -1,8 +1,8 @@
 ---
-title: CLINative
+title: About Me
 draft: false
 tags:
-  - clinative
+  - about
 ---
 
 ## 👋 Hey, I’m Lavell — aka **CLINative**

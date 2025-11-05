@@ -1,8 +1,8 @@
 ---
 title: Welcome to CLI Native
 draft: false
-tags: 
-  - welcome
+tags: [cli, systems, devops, automation, shell, tools, fundamentals, 
+  scripting, api, backend, cloud, containers, orchestration, infrastructure]
 ---
 
 
