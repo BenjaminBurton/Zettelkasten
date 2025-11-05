@@ -2,11 +2,13 @@
 title: Kubernetes
 draft: false
 tags: 
-  - kubernetes
+  - [containers, orchestration, cloud, devops, infrastructure, automation]
 ---
 
 
 ## ☸️ Kubernetes – Orchestrating the Cloud
+
+See also: [[Python]] | [[Linux]]
 
 Kubernetes is where Linux and automation meet scale.  
 It’s the tool that turns individual containers into full systems that can self-heal, auto-scale, and survive anything.

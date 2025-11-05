@@ -2,10 +2,12 @@
 title: Python
 draft: false
 tags: 
-  - python
+  - [automation, scripting, devops, api, tools, backend, cloud]
 ---
 
 ## 🐍 Python – Automation, APIs, and The Glue of DevOps
+
+See also: [[Linux]] | [[Kubernetes]]
 
 Python is where everything comes together — automation, APIs, infrastructure, and data.  
 In DevOps, it’s the bridge between the human and the machine.
