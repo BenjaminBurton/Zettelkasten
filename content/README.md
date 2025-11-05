@@ -6,7 +6,7 @@ tags: [CLINative, linux, python, kubernetes, devops, automation, self-taught, ho
 
 ## 👋 About Me – CLINative
 
-Hey, I’m **[Your Name]**, the mind behind CLINative.  
+Hey, I’m **Lavell**, the mind behind CLINative.  
 
 This is where I share the story behind my journey — why I do what I do, how I got here, and where I’m going.  
 It’s different from the home page because this is personal — the human behind the terminal, scripts, and clusters.
