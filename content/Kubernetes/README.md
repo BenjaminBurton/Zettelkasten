@@ -7,8 +7,6 @@ tags: [containers, orchestration, cloud, devops, infrastructure, automation]
 
 ## ☸️ Kubernetes – Orchestrating the Cloud
 
-See also: [[Python]] | [[Linux]]
-
 Kubernetes is where Linux and automation meet scale.  
 It’s the tool that turns individual containers into full systems that can self-heal, auto-scale, and survive anything.
 
@@ -63,3 +61,5 @@ Kubernetes is more than a platform — it’s proof of discipline and understand
 Here, I’m building from the ground up: Linux, Python, and Kubernetes all coming together into one system.
 
 > **“From the terminal to the cloud — this is CLINative.”**
+
+See also: [[Python]] | [[Linux]]

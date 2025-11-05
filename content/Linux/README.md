@@ -6,8 +6,6 @@ tags: [cli, systems, devops, automation, shell, tools, fundamentals]
 
 ## 🐧 Linux – The Foundation of Everything I Build
 
-See also: [[Python]] | [[Kubernetes]]
-
 Linux isn’t just an operating system — it’s the foundation of my entire journey.  
 Everything I do in DevOps, automation, and cloud architecture starts here.  
 
@@ -61,3 +59,5 @@ Because when you understand Linux deeply, nothing in DevOps feels foreign — Do
 
 This is the command line way.  
 This is **CLINative**.
+
+See also: [[Python]] | [[Kubernetes]]

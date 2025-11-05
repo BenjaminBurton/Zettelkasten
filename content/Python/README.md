@@ -6,8 +6,6 @@ tags: [automation, scripting, devops, api, tools, backend, cloud]
 
 ## 🐍 Python – Automation, APIs, and The Glue of DevOps
 
-See also: [[Linux]] | [[Kubernetes]]
-
 Python is where everything comes together — automation, APIs, infrastructure, and data.  
 In DevOps, it’s the bridge between the human and the machine.
 
@@ -65,3 +63,5 @@ Every script I write makes me more independent, efficient, and free.
 
 This is automation at the command line level.  
 This is **CLINative**.
+
+See also: [[Linux]] | [[Kubernetes]]
