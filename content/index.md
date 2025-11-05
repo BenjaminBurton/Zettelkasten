@@ -8,8 +8,6 @@ tags: [cli, systems, devops, automation, shell, tools, fundamentals,
 
 ## 👋 My Digital Home to Share My Work in Public
 
-See also: [[Linux]] | [[Kubernetes]] [[Python]]
-
 I’m a self-taught **Linux & DevOps Engineer** who believes everything starts at the command line.  
 This space is where I document what I learn, build, and break — all in public.
 
@@ -42,3 +40,5 @@ one command, one project, one improvement at a time.
 If my work helps you, or if you’re walking a similar path, let’s connect.  
 
 > **Everything starts at the terminal.**
+
+See also: [[Linux]] | [[Kubernetes]] [[Python]]

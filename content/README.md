@@ -1,43 +1,44 @@
 ---
 title: About Me
 draft: false
-tags:
-  - about
+tags: [CLINative, linux, python, kubernetes, devops, automation, self-taught, homelab, journey, personal-growth]
 ---
 
-## 👋 Hey, I’m Lavell — aka **CLINative**
+## 👋 About Me – CLINative
 
-Welcome to my digital home.
+Hey, I’m **[Your Name]**, the mind behind CLINative.  
 
-I’m a self-taught **Linux & DevOps Engineer** who believes everything starts at the command line.  
-This space is where I document what I learn, build, and break — all in public.
-
-I focus on mastering **Linux**, **Python**, and **Kubernetes** through hands-on projects and deep exploration of how systems actually work.  
+This is where I share the story behind my journey — why I do what I do, how I got here, and where I’m going.  
+It’s different from the home page because this is personal — the human behind the terminal, scripts, and clusters.
 
 ---
 
-## 💡 What You’ll Find Here
+## 🌱 My Journey
 
-- **Technical Writeups** — notes, experiments, and how-tos from my homelab and projects.  
-- **Guides & Configs** — the tools, dotfiles, and scripts I use to build a self-sufficient workflow.  
-- **DevOps Insights** — thoughts on automation, infrastructure, and learning without shortcuts.  
+I’m a self-taught software and cloud engineer focused on **Linux, Python, and Kubernetes**.  
+I’ve built my skills from the ground up, learning through experimentation, homelabs, and hands-on projects.  
+
+I believe that mastering the fundamentals — the command line, system internals, and container orchestration — is the key to **real technical independence**.  
+I document everything I learn here so I can share knowledge, reflect on my growth, and help others on similar paths.
 
 ---
 
-## ⚙️ Current Focus
+## ⚡ What Drives Me
 
-- Building my **Arch Linux DevOps Workstation** on my Lenovo T490.  
-- Writing automation scripts in **Python**.  
-- Deploying apps and services using **Kubernetes**.  
-- Documenting everything here — in real time.
+- **Learning by Doing:** I break things, fix them, and learn deeply from the process.  
+- **Automation & Efficiency:** If it can be automated, I automate it — Linux scripts, Python programs, Kubernetes pipelines.  
+- **Self-Sufficiency:** My goal is to be technically bulletproof, so I control my career, my projects, and my freedom.  
+- **Sharing Knowledge:** I want to inspire and guide others who are learning, experimenting, and building.
 
 ---
 
 ## 🧭 Mission
 
-I’m building a life of freedom through skill, discipline, and constant learning —  
-one command, one project, one improvement at a time.  
+CLINative isn’t just a brand — it’s a philosophy.  
+It’s about mastering the **command line, the cloud, and automation** to create freedom, independence, and impact.  
 
-If my work helps you, or if you’re walking a similar path, let’s connect.  
+Every note, project, and write-up on this site is a step toward that mission.
 
-> **Everything starts at the terminal.**
+---
+
+See also: [[Linux]] | [[Python]] | [[Kubernetes]] | [[Projects]] | [[CLINative]]
