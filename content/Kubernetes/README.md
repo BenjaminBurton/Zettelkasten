@@ -1,8 +1,7 @@
 ---
 title: Kubernetes
 draft: false
-tags: 
-  - containers, orchestration, cloud, devops, infrastructure, automation
+tags: [containers, orchestration, cloud, devops, infrastructure, automation]
 ---
 
 
