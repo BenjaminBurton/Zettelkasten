@@ -1,14 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Zettelkasten
 draft: false
 tags: 
   - example-tag
 ---
 
 
-## 👋 Hey, I’m Lavell — aka **CLINative**
-
-Welcome to my digital home.
+## 👋 Hey, Welcome to my digital home for **CLINative**
 
 I’m a self-taught **Linux & DevOps Engineer** who believes everything starts at the command line.  
 This space is where I document what I learn, build, and break — all in public.
