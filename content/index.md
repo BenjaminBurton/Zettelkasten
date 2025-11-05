@@ -1,12 +1,12 @@
 ---
-title: Welcome to Zettelkasten
+title: Zettelkasten
 draft: false
 tags: 
   - example-tag
 ---
 
 
-## 👋 Hey, Welcome to my digital home for **CLINative**
+## 👋 My digital home for **CLINative**
 
 I’m a self-taught **Linux & DevOps Engineer** who believes everything starts at the command line.  
 This space is where I document what I learn, build, and break — all in public.
