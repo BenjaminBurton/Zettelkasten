@@ -1,10 +1,9 @@
 ---
-title: Welcome to Quartz
+title: CLINative
 draft: false
-tags: 
-  - example-tag
+tags:
+  - example-tags
 ---
-
 
 ## 👋 Hey, I’m Lavell — aka **CLINative**
 
