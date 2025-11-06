@@ -39,6 +39,14 @@ one command, one project, one improvement at a time.
 
 If my work helps you, or if you’re walking a similar path, let’s connect.  
 
-> **Everything starts at the terminal.**
+## Explore My Work
+
+- [[Linux]] – Master the command line, system internals, and automation
+- [[Python]] – Scripting, automation, API integrations, and tools
+- [[Kubernetes]] – Container orchestration, deployments, and cloud-native infrastructure
+- [[Projects]] – Hands-on experiments and portfolio projects
+- [[About Me]] – My journey, philosophy, and mission
+
+> From terminal to cloud — this is **CLINative**
 
 See also: [[Linux]] | [[Kubernetes]] [[Python]]
